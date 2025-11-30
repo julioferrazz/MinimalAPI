@@ -4022,11 +4022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos estudos\\MiminalAPI\\MiminalAPI.csproj",
-      "projectName": "MiminalAPI",
-      "projectPath": "D:\\Projetos estudos\\MiminalAPI\\MiminalAPI.csproj",
+      "projectUniqueName": "D:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj",
+      "projectName": "MinimalAPI",
+      "projectPath": "D:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj",
       "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos estudos\\MiminalAPI\\obj\\",
+      "outputPath": "D:\\Projetos estudos\\MinimalAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config"
