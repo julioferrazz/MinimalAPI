@@ -130,3 +130,8 @@ D:\Projetos estudos\MinimalAPI\obj\Debug\net8.0\refint\MinimalAPI.dll
 D:\Projetos estudos\MinimalAPI\obj\Debug\net8.0\MinimalAPI.pdb
 D:\Projetos estudos\MinimalAPI\obj\Debug\net8.0\MinimalAPI.genruntimeconfig.cache
 D:\Projetos estudos\MinimalAPI\obj\Debug\net8.0\ref\MinimalAPI.dll
+D:\Projetos estudos\MinimalAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projetos estudos\MinimalAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projetos estudos\MinimalAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projetos estudos\MinimalAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projetos estudos\MinimalAPI\obj\Debug\net8.0\MinimalAPI.MvcApplicationPartsAssemblyInfo.cs

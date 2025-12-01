@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj": {}
+    "d:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj": {}
   },
   "projects": {
-    "D:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj": {
+    "d:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj",
+        "projectUniqueName": "d:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj",
         "projectName": "MinimalAPI",
-        "projectPath": "D:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj",
+        "projectPath": "d:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj",
         "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos estudos\\MinimalAPI\\obj\\",
+        "outputPath": "d:\\Projetos estudos\\MinimalAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -62,6 +66,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
             }
           },
           "imports": [
