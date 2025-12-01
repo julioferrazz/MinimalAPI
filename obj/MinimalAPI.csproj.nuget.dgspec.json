@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj": {}
+    "D:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj": {}
   },
   "projects": {
-    "d:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj": {
+    "D:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj",
+        "projectUniqueName": "D:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj",
         "projectName": "MinimalAPI",
-        "projectPath": "d:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj",
+        "projectPath": "D:\\Projetos estudos\\MinimalAPI\\MinimalAPI.csproj",
         "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-        "outputPath": "d:\\Projetos estudos\\MinimalAPI\\obj\\",
+        "outputPath": "D:\\Projetos estudos\\MinimalAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config"
